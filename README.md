@@ -1,4 +1,4 @@
-# CIS-25
+# Week5
 
 Module 6 focuses on using strings, classes, and file I/O in C++. In this assignment, you create an Item class that stores an item's name and quantity, then write a method to save that information to a file and another method to load and display it. The program demonstrates how to use ofstream and ifstream to work with text files, and the main() function creates an object, assigns values, saves them to items.txt, and reads them back for display. This module reinforces basic class design, data handling, and file operations in C++.
 
