@@ -1,1 +1,5 @@
 # CIS-25
+
+Module 6 focuses on using strings, classes, and file I/O in C++. In this assignment, you create an Item class that stores an item's name and quantity, then write a method to save that information to a file and another method to load and display it. The program demonstrates how to use ofstream and ifstream to work with text files, and the main() function creates an object, assigns values, saves them to items.txt, and reads them back for display. This module reinforces basic class design, data handling, and file operations in C++.
+
+Module 11 introduces constructors, destructors, and the lifecycle of objects in C++. You build a Product class with private attributes for id, name, and price, and use a parameterized constructor to initialize these values when an object is created. A destructor prints a message when the object goes out of scope, illustrating automatic cleanup. The program includes a printDetails() method to display the product’s information, and the main() function creates a sample object to demonstrate how constructors and destructors work in practice.
